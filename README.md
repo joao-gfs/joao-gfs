@@ -1,3 +1,13 @@
+<div align="center">
+  <i>
+    <strong>
+    <a href="https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp?si=2hNGjclaRmSqrHZdOR-gbQ" style="text-decoration: none; color: inherit;">
+      E lá se vai mais um dia
+    </a>
+    <strong>
+  </i>
+</div>
+
 ## About Me
 
 * Information Systems Student at [UNIFEI](https://unifei.edu.br/)
