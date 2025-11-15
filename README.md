@@ -1,21 +1,59 @@
-## About
+## About Me
 
-- Information Systems student at [UNIFEI](https://unifei.edu.br/)
-
-- Devops Intern at [Tech for Humans](https://github.com/tech4humans-brasil)
+* Information Systems Student at [UNIFEI](https://unifei.edu.br/)
+* DevOps Intern at [Tech for Humans](https://github.com/tech4humans-brasil)
 
 ### Interests
 
-- Systems programming
+* Systems Programming
+* Cybersecurity
+* Computer Networks
+* Web Development
 
-- Cybersecurity
+---
 
-- Computer Networks
+## Favorite Projects
 
-- Web Development
+These are the projects I enjoyed the most and/or learned a lot. 
 
-## Projects
+### [Crime Data Analysis using Graphs](https://github.com/joao-gfs/analise-dados-criminais)
+Analyzing crime data to find patterns and provide rich information for security planning for the 2028 Olympics in Los Angeles.
 
-### Crime Data Analysis using Graphs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![iGraph](https://img.shields.io/badge/iGraph-E91E63?style=flat) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-00599C?style=flat) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-76AB54?style=flat) ![Graph Theory](https://img.shields.io/badge/Graph_Theory-007ACC?style=flat)
 
- ---- Work in Progress ----
+<div align="center">
+  <img width="400" alt="Crime Data Analysis Graph" src="https://github.com/user-attachments/assets/d0df27a7-acfe-4e85-b997-82f4a5edb704" />
+</div>
+
+---
+
+### [ROT Cypher Encoder/Decoder](https://github.com/joao-gfs/rotator)
+A simple ROT Cypher project built to understand the basics of Rust.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-00A86B?style=flat)
+
+<div align="center">
+  <img width="400" height="430" alt="ROT Cypher Demo" src="https://github.com/user-attachments/assets/70927330-b120-4a1e-8f7c-49855560bf65" />
+</div>
+
+---
+
+### [Agent-Based Modeling](https://github.com/joao-gfs/simulacao-baseada-em-agentes)
+Simulations of spreading phenomena using Agent-Based Modeling, created for a Network Science course.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Graph Theory](https://img.shields.io/badge/Graph_Theory-007ACC?style=flat) ![iGraph](https://img.shields.io/badge/iGraph-E91E63?style=flat) ![Simulation](https://img.shields.io/badge/Simulation-4CAF50?style=flat)
+
+<div align="center">
+  <img alt="ZACHARY-SIR" src="https://github.com/user-attachments/assets/5fe9148b-70a2-405c-9efe-d7e8970f2259" />
+</div>
+
+---
+
+### [AI Cost Allocation Agent](https://github.com/joao-gfs/techlab-devops-2025)
+A cost allocation agent built during a two-day coding challenge. This was my first contact with AI agents and earned 2nd place in the competition.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-F15A24?style=flat) ![AI Agents](https://img.shields.io/badge/AI_Agents-6A0DAD?style=flat)
+
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/b273f7f2-b170-419b-9d6a-d191bccb8c80" />
+</div>
