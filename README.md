@@ -60,7 +60,7 @@ Simulations of spreading phenomena using Agent-Based Modeling, created for a Net
 ---
 
 ### [AI Cost Allocation Agent](https://github.com/joao-gfs/techlab-devops-2025)
-A cost allocation agent built during a two-day coding challenge. This was my first contact with AI agents and earned 2nd place in the competition.
+A cost allocation agent built during a two-week coding challenge. This was my first contact with AI agents and earned 2nd place in the competition.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-F15A24?style=flat) ![AI Agents](https://img.shields.io/badge/AI_Agents-6A0DAD?style=flat)
 
