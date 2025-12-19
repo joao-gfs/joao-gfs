@@ -32,18 +32,20 @@ Analyzing crime data to find patterns and provide rich information for security 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![iGraph](https://img.shields.io/badge/iGraph-E91E63?style=flat) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-00599C?style=flat) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-76AB54?style=flat) ![Graph Theory](https://img.shields.io/badge/Graph_Theory-007ACC?style=flat)
 
 <div align="center">
-  <img width="400" alt="Crime Data Analysis Graph" src="https://github.com/user-attachments/assets/d0df27a7-acfe-4e85-b997-82f4a5edb704" />
+  <img width="800" alt="Crime Data Analysis Graph" src="https://github.com/user-attachments/assets/d0df27a7-acfe-4e85-b997-82f4a5edb704" />
 </div>
 
 ---
 
 ### [ROT Cypher Encoder/Decoder](https://github.com/joao-gfs/rotator)
-A simple ROT Cypher project built to understand the basics of Rust.
+A simple ROT Cypher project built to understand the basics of Rust. I recently implemented a TUI (Terminal User Interface) using [Ratatui.rs](https://ratatui.rs/), making it more interactive!
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-00A86B?style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-00A86B?style=flat) ![TUIs](https://img.shields.io/badge/TUIs-0F172B?style=flat)
+
+0f172b
 
 <div align="center">
-  <img width="400" height="430" alt="ROT Cypher Demo" src="https://github.com/user-attachments/assets/70927330-b120-4a1e-8f7c-49855560bf65" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/003a295b-6c2c-4f22-98d4-e63b0ffb552a" />
 </div>
 
 ---
