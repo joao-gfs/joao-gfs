@@ -43,7 +43,7 @@ A simple ROT Cypher project built to understand the basics of Rust. I recently i
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-00A86B?style=flat) ![TUIs](https://img.shields.io/badge/TUIs-0F172B?style=flat)
 
 <div align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/003a295b-6c2c-4f22-98d4-e63b0ffb552a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/35b2c958-d650-4b0e-a7bf-143acc0a0369" />
 </div>
 
 ---
