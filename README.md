@@ -11,7 +11,7 @@
 ## About Me
 
 * Information Systems Student at [UNIFEI](https://unifei.edu.br/)
-* DevOps Intern at [Tech for Humans](https://github.com/tech4humans-brasil)
+* Junior DevOps Analyst at [Tech for Humans](https://github.com/tech4humans-brasil)
 
 ### Interests
 
